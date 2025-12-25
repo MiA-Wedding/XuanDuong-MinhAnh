@@ -24,7 +24,7 @@ const WEDDING_CONFIG = {
   effectImage: "assets/effect.png",
   effectEnabled: true,
 
-  videoUrl: "https://www.youtube.com/embed/5yTncUg4OQ5k",
+  videoUrl: "https://www.youtube.com/embed/TncUg4OQ5k",
 
   gallery: [
     {src:"assets/g1.jpg"},
